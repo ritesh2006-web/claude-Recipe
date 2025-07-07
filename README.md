@@ -7,6 +7,11 @@ A React web app that suggests recipes based on the ingredients you have!
 - Get AI-generated recipe suggestions using the Mistral model via Hugging Face Inference API
 - Clean, modern UI
 
+![Screenshot](./public/Screenshot 2025-07-07 122828.png)
+
+
+
+
 ## Getting Started
 
 ### Prerequisites
